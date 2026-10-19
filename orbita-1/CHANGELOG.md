@@ -1,5 +1,0 @@
-- [2026-10-18 · Planificación de la entrega](./changelog/01-planificacion-entrega.md)
-- [2026-10-18 · Ficha de persona P1](./changelog/02-ficha-persona-p1.md)
-- [2026-10-18 · MVP: motivos de cada función](./changelog/03-mvp-motivos.md)
-- [2026-10-18 · Hipótesis y referentes](./changelog/04-hipotesis-y-referentes.md)
-- [2026-10-18 · Entrevista P2 y limpieza de textos](./changelog/05-entrevista-p2-y-limpieza.md)
