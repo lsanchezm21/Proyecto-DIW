@@ -1,8 +1,8 @@
 # Entrevistas
 
-**Consentimiento:** antes de contestar, cada persona supo que sus respuestas se usarían solo para este trabajo de clase y de forma anónima, y dio su permiso.
+**Consentimiento:** antes de contestar, cada persona sabía que sus respuestas se usarían de forma anónima para este trabajo, y dieron su permiso.
 
-## P1
+## P1 | Persona primaria
 
 - **Formato:** respuestas escritas por WhatsApp, 28/9.
 - **Consentimiento:** por WhatsApp, 28/9.
@@ -16,15 +16,15 @@
 
 **Lo que tiene en casa**
 
-- Para saber qué alimentos tiene, depende de la memoria o de mirar el frigorífico.
-- Ha comprado algo y después se ha dado cuenta de que ya lo tenía: sí.
-- Le ha faltado algún ingrediente para una receta: sí.
-- Hay alimentos que suele olvidar que tiene: sí.
+- Para saber qué alimentos tiene, depende de su memoria o de mirar el frigorífico.
+- Ha comprado algo y después se ha dado cuenta de que ya lo tenía.
+- Le ha faltado algún ingrediente para una receta.
+- Hay alimentos que suele olvidar que tiene.
 
 **Caducidad**
 
-- Se le ha puesto malo o caducado algún alimento: sí.
-- Controla cuándo debe gastar los alimentos teniendo delante los que están abiertos: los pone delante en el frigorífico.
+- Se le ha puesto malo o caducado algún alimento.
+- Controla cuándo debe gastar los alimentos teniendo delante los que están abiertos.
 
 **Recetas**
 
@@ -42,24 +42,24 @@
 - No suele hacer la compra y, si la hace, la hace minutos antes de salir.
 - Para comprobar los ingredientes, mira en el frigorífico lo que tiene y lo que le falta.
 
-**Preguntas añadidas después (de palabra, [fecha])**
+**Otros**
 
 - Dispositivo: principalmente móvil, también ordenador.
 - Conexión: WiFi / datos móviles.
 - Dónde: en casa, sobre todo en la cocina, o fuera de casa.
 
-## P2
+## P2 | Persona secundaria
 
 - **Formato:** conversación hablada, notas pasadas a limpio.
 - **Consentimiento:** verbal, 18/10.
 
 1. **Cómo decidió qué comer ayer:** vio lo que había en la nevera y lo que podía hacer con lo que había comprado.
-2. **Quién cocina y quién hace la compra:** cocina ella y hace la compra ella.
-3. **Cómo sabe lo que tiene:** va a los muebles a ver qué hay, con una hoja y un boli, y apunta lo que hay en cada mueble (nevera, congelador…) y las cosas que se acuerde en el momento.
-4. **Última vez que tiró comida:** una mozzarella que no ponía que estuviera mala ni abierta. Se quedó mucho tiempo en la nevera y, cuando iba a utilizarla, la abrió y estaba mala.
-5. **Compra y falta de ingredientes:** muchas veces falta algo, así que cambia de planes en qué cocinar, aunque le cuesta mucho pensar en qué cocinar.
-6. **Dónde guarda las recetas:** no las guarda, es todo memoria. Quiere guardar las recetas que le gustan a su hija, porque nunca sabe qué hacerle de comer y siempre le pide una lista de comidas, aunque luego no hace nada con ella y queda en el olvido.
-7. **Última vez que cambió una receta:** la cambia y no lo apunta. En un bizcocho de plátano echó cosas que tenía; a veces es como echar lo que tenga.
-8. **Cómo comparte recetas:** se la cuenta de palabra, y no suele hacerlo.
+2. **Quién cocina y quién hace la compra:** ella cocina y hace la compra.
+3. **Cómo sabe lo que tiene:** va a los muebles a ver qué hay, con una hoja y un boli, y apunta lo que hay en cada mueble (nevera, congelador…) y las cosas que se acuerda en el momento.
+4. **Última vez que tiró comida:** una mozzarella que no estaba ni abierta ni caducada. Se quedó mucho tiempo en la nevera y, cuando iba a utilizarla, se dio cuenta que estaba mala.
+5. **Compra y falta de ingredientes:** a veces falta algún alimento, así que cambia de planes sobre qué cocinar, aunque le cuesta mucho pensar en qué cocinar.
+6. **Dónde guarda las recetas:** no las guarda, es todo memoria. Aunque le gustaría tener una lista de recetas que hacer a su hija ya que nunca sabe que hacerle y aunque empiece una lista nunca hace nada con esta y queda en el olvido.
+7. **Última vez que cambió una receta:** según lo que tenga la cambia y no apunta el cambio. En un bizcocho de plátano añadió cosas que tenía como pasas, chocolate y nueces.
+8. **Cómo comparte recetas:** no suele compartirlas, aunque cuando lo hace es a boca.
 9. **Dispositivo y lugar:** el móvil, en casa.
-10. **Lo que más le molesta:** pensar qué va a hacer de comer para su hija.
+10. **Lo que más le molesta:** pensar que comida va a prepararle a su hija.
