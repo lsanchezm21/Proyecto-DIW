@@ -35,7 +35,7 @@ Una persona al abrir Mi_Recetario en el móvil, en casa, añade alimentos, ve lo
 - **Añadir alimento:** si falta algún dato, se vuelve a la pantalla antes de guardar. Así no se guardan alimentos a medias.
 - **CADUCAN PRONTO:** ordena lo que caduca antes. Responde a lo que repiten P1 y P2: no saben cuándo se les echa a perder la comida.
 - **Añadir receta, ¿es una modificación de otra?:** si lo es, se elige la receta base y se guarda solo lo que cambia. P1 usa flechas entre versiones y P2 cambia recetas sin apuntarlas.
-- **Error al guardar:** se puede reintentar o volver a la pantalla anterior sin perder lo escrito. Pensado para P2, que no apunta nada si apuntar es pesado.
+- **Error al guardar:** se puede reintentar o volver a la pantalla anterior sin perder lo escrito.
 - **Alimento añadido:** confirma que se ha guardado y lleva de vuelta al ALMACÉN.
 
 ### Recorrido desde cada persona
