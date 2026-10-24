@@ -1,6 +1,6 @@
 # MVP y user flow
 
-Versión mínima de Mi_Recetario y recorrido de una persona por ella. Parte de lo que contaron P1 y P2 en las entrevistas y de los nombres de pantalla del sitemap.
+Es la versión mínima de Mi_Recetario y recorrido de una persona por esta. Parte de lo que contaron P1 y P2 en las entrevistas y de los nombres de pantalla del sitemap.
 
 ## MVP
 
