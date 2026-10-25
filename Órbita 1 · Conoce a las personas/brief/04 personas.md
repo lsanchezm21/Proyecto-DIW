@@ -1,6 +1,6 @@
 # Personas
 
-Las dos personas del proyecto salen de las entrevistas con P1 y P2 (ver [Entrevistas](./03-entrevistas.md)).
+Las dos personas del proyecto salen de las entrevistas con P1 y P2 (ver [Entrevistas](./03%20entrevistas.md)).
 
 **Persona principal:** P1. Es la que tiene los dos problemas centrales del proyecto: no controla cuándo se le caducan los alimentos y guarda sus recetas, con sus versiones, en un cuaderno.
 
