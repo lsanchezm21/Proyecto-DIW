@@ -1,4 +1,4 @@
-# MiRecetario
+# Mi_Recetario
 
 Web para saber qué tienes en casa, cuándo caduca y guardar tus recetas con sus modificaciones.
 
