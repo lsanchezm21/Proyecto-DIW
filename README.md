@@ -1,4 +1,4 @@
-# Mi_Recetario
+# MiRecetario
 
 Web para saber qué tienes en casa, cuándo caduca y guardar tus recetas con sus modificaciones.
 
@@ -6,18 +6,18 @@ Proyecto de la Órbita 1 de DIW: "Diseñar para que funcione".
 
 ## Brief del proyecto
 
-- [Hipótesis](./Órbita-1-·-Conoce-a-las-personas/brief/01-hipotesis.md)
-- [Referentes](./orbita-1/brief/02-referentes.md)
-- [Entrevistas](./orbita-1/brief/03-entrevistas.md)
-- [Personas](./orbita-1/brief/04-personas.md)
-- [MVP y user flow](./orbita-1/brief/05-mvp-y-user-flow.md)
-- [Sitemap](./orbita-1/brief/06-sitemap.md)
-- [Wireframes y prototipo](./orbita-1/brief/07-wireframes-y-prototipo.md)
-- [Criterios de éxito y restricciones](./orbita-1/brief/08-criterios-y-restricciones.md)
+- [Hipótesis](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/01-hipotesis.md)
+- [Referentes](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/02-referentes.md)
+- [Entrevistas](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/03-entrevistas.md)
+- [Personas](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/04-personas.md)
+- [MVP y user flow](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/05-mvp-y-user-flow.md)
+- [Sitemap](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/06-sitemap.md)
+- [Wireframes y prototipo](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/07-wireframes-y-prototipo.md)
+- [Criterios de éxito y restricciones](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/08-criterios-y-restricciones.md)
 
 ## Registro de uso de IA
 
-- [CHANGELOG](./orbita-1/CHANGELOG.md)
+- [CHANGELOG](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/CHANGELOG.md)
 
 ## Enlaces externos
 
