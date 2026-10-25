@@ -6,18 +6,18 @@ Proyecto de la Órbita 1 de DIW: "Diseñar para que funcione".
 
 ## Brief del proyecto
 
-- [Hipótesis](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/01-hipotesis.md)
-- [Referentes](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/02-referentes.md)
-- [Entrevistas](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/03-entrevistas.md)
-- [Personas](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/04-personas.md)
-- [MVP y user flow](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/05-mvp-y-user-flow.md)
-- [Sitemap](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/06-sitemap.md)
-- [Wireframes y prototipo](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/07-wireframes-y-prototipo.md)
-- [Criterios de éxito y restricciones](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/08-criterios-y-restricciones.md)
+- [Hipótesis](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/01-hipotesis.md)
+- [Referentes](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/02-referentes.md)
+- [Entrevistas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/03-entrevistas.md)
+- [Personas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/04-personas.md)
+- [MVP y user flow](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/05-mvp-y-user-flow.md)
+- [Sitemap](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/06-sitemap.md)
+- [Wireframes y prototipo](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/07-wireframes-y-prototipo.md)
+- [Criterios de éxito y restricciones](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/08-criterios-y-restricciones.md)
 
 ## Registro de uso de IA
 
-- [CHANGELOG](./%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/CHANGELOG.md)
+- [CHANGELOG](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/CHANGELOG.md)
 
 ## Enlaces externos
 
