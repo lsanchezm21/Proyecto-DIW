@@ -6,14 +6,14 @@ Proyecto de la Órbita 1 de DIW: "Diseñar para que funcione".
 
 ## Brief del proyecto
 
-- [Hipótesis](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/01-hipotesis.md)
-- [Referentes](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/02-referentes.md)
-- [Entrevistas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/03-entrevistas.md)
-- [Personas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/04-personas.md)
-- [MVP y user flow](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/05-mvp-y-user-flow.md)
-- [Sitemap](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/06-sitemap.md)
-- [Wireframes y prototipo](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/07-wireframes-y-prototipo.md)
-- [Criterios de éxito y restricciones](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/08-criterios-y-restricciones.md)
+- [Hipótesis](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/01%20hipotesis.md)
+- [Referentes](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/02%20referentes.md)
+- [Entrevistas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/03%20entrevistas.md)
+- [Personas](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/04%20personas.md)
+- [MVP y user flow](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/05%20mvp%20y%20user%20flow.md)
+- [Sitemap](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/06%20sitemap.md)
+- [Wireframes y prototipo](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/07%20wireframes%20y%20prototipo.md)
+- [Criterios de éxito y restricciones](https://github.com/lsanchezm21/Proyecto-DIW/blob/main/%C3%93rbita%201%20%C2%B7%20Conoce%20a%20las%20personas/brief/08%20criterios%20y%20restricciones.md)
 
 ## Registro de uso de IA
 
