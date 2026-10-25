@@ -6,7 +6,7 @@ Proyecto de la Órbita 1 de DIW: "Diseñar para que funcione".
 
 ## Brief del proyecto
 
-- [Hipótesis](./orbita-1/brief/01-hipotesis.md)
+- [Hipótesis](./Órbita-1-·-Conoce-a-las-personas/brief/01-hipotesis.md)
 - [Referentes](./orbita-1/brief/02-referentes.md)
 - [Entrevistas](./orbita-1/brief/03-entrevistas.md)
 - [Personas](./orbita-1/brief/04-personas.md)
