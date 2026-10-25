@@ -24,6 +24,12 @@
 - **Qué conservé:** las preguntas.
 - **Qué cambié y por qué:** las que no me gustaban o convencían del todo las cambié por otras o les hice modificaciones.
 
+## 2026-10-18 · Wareframes
+- **Pedí:** unas plantilla para el wareframe para tener los símbolos que quería y otras cosas como el cuadrado tachado para la foto.
+- **Me devolvió:** plantilla del wareframe.
+- **Conservé:** la vista general de la disposición y los símbolos.
+- **Cambié:** quite botones que no servían para nada ya que era repetidos, modifique los elementos para que siguieran las proporciones de la pantalla dependiendo si era la de ordenador o la del móvil. Además de hacer las demás utilizando esa de plantilla.
+
 ## 2026-10-25 · Revisada
 
 - **Herramienta:** Claude
